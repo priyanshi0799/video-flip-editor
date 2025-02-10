@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex{
+    display: flex;
+}
+
+.select{
+    display: flex;
+    align-items: center;
+    gap: 4px
+}
